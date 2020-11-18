@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Scripts\Ball.cs]
+	Fragments : 2
+		[ 0] : Line:   26	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   31	InputMethod   GetKeyDown          	(KeyCode.Space)
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [C:/Users/Game/Documents/Bowling/CF2-Data/Script-Backups/2020-11-12-17-39\Assets-After/\Scripts\Ball.cs] to [C:/Users/Game/Documents/Bowling/Assets/\Scripts\Ball.cs]
+
+Overwriting COMPLETED!
